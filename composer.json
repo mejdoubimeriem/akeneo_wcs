@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "MejdoubiMeriem",
-            "homepage": "http://www.aliznet.fr"
+            "homepage": "http://www.mejdoubimeriem.com"
         }
     ],
     "require": {
@@ -25,7 +25,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4" : {
-            "Aliznet\\" : "*"
+            "Mejdoubi\\" : "*"
         }
     }
 }
