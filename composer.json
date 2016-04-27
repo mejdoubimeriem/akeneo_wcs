@@ -6,7 +6,7 @@
     "license": "OSL-3.0",
     "authors": [
         {
-            "name": "Aliznet",
+            "name": "MejdoubiMeriem",
             "homepage": "http://www.aliznet.fr"
         }
     ],
@@ -16,6 +16,7 @@
         "twig/twig": "*",
         "doctrine/doctrine-bundle": "*"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4" : {
             "Aliznet\\" : "*"
