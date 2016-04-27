@@ -22,7 +22,7 @@
 			"1": "dev-1.0/master"
 		}
 	},
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4" : {
             "Mejdoubi\\" : "*"
