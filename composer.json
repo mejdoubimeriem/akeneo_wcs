@@ -19,7 +19,7 @@
     "extra": {
 		"component": "package",
 		"versions": {
-			"1": "dev-1.0/master",
+			"1": "dev-1.0/master"
 		}
 	},
     "minimum-stability": "dev",
