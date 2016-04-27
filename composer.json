@@ -16,7 +16,7 @@
         "twig/twig": "*",
         "doctrine/doctrine-bundle": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "alpha",
     "autoload": {
         "psr-4" : {
             "Mejdoubi\\" : "*"
