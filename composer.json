@@ -16,12 +16,6 @@
         "twig/twig": "*",
         "doctrine/doctrine-bundle": "*"
     },
-    "extra": {
-		"component": "package",
-		"versions": {
-			"1": "dev-1.0/master"
-		}
-	},
     "minimum-stability": "stable",
     "autoload": {
         "psr-4" : {
