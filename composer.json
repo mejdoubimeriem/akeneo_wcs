@@ -1,5 +1,5 @@
 {
-    "name": "mejdoubiMeriem/wcs",
+    "name": "mejdoubimeriem/wcs",
     "type": "symfony-bundle",
     "description": "The Websphere Commerce Connector for Akeneo",
     "keywords": ["wcs", "akeneo", "pim"],
