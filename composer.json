@@ -1,7 +1,7 @@
 {
     "name": "mejdoubimeriem/wcs",
     "type": "symfony-bundle",
-    "version":"v1.0.0-alpha",
+    "version":"v1.1.0-alpha",
     "description": "The Websphere Commerce Connector for Akeneo",
     "keywords": ["wcs", "akeneo", "pim"],
     "license": "OSL-3.0",
@@ -19,7 +19,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-dev": "1.0.x-alpha"
+            "dev-dev": "1.1.x-dev"
         }
     },
     "minimum-stability": "stable",
